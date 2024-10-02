@@ -1,0 +1,3 @@
+haystack-ai>=4.2.2
+mongodb-atlas-haystack
+sentence-transformers
